@@ -22,7 +22,7 @@ export default function Home() {
             </>
           ) : (
             <>
-              <h1>Baraka Water — Zarkentdan sof suv</h1>
+              <h1>Baraka Water — Zarkentdan buloq suvi</h1>
               <p>
                 Eng sifatli tog' suvi, to'g'ridan-to'g'ri ofisingiz va
                 xonadoningizgacha yetkazib beramiz. Yangi mijozlar uchun maxsus
